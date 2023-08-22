@@ -1,0 +1,16 @@
+ - docker stop centos7
+ - docker start centos7
+ - cd /
+ - ls
+ - pwd
+ - mkdir
+ - mkdir -p
+ - touch
+ - cp
+ - cp -r
+ - mv
+ - rm
+ - rm -r
+ - echo '' >>
+ - echo '' >
+
