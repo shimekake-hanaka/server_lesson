@@ -1,16 +1,26 @@
- - docker stop centos7
- - docker start centos7
- - cd /
- - ls
- - pwd
- - mkdir
- - mkdir -p
- - touch
- - cp
- - cp -r
- - mv
- - rm
- - rm -r
- - echo '' >>
- - echo '' >
+- docker start/stop
+  - docker stop centos7
+  - docker start centos7
+- directory move
+  - cd
+  _ cd ../
+- directory check
+  - ls
+  - ls -a
+  - pwd
+- create command
+  - mkdir
+  - mkdir -p
+  - touch
+- copy
+  - cp
+  - cp -r
+- move or change 
+  - mv
+- dekete
+  - rm
+  - rm -r
+- file add
+  - echo '' >>
+  - echo '' >
 
